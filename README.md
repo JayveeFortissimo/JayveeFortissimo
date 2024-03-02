@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning **React/Node.js**
 - Fun fact: I'm Musician for almost 10 years, and I can play any music jazz/classical/pop/loveSong with or without music Sheets
+- I'm not good in programming but i program every day to improve my skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
