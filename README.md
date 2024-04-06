@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jayvee Maniquiz</h1>
 <h3 align="center">Aspiring to become a Full-Stack Web Developer.</h3>
 
-<img align="right" alt="Coding" width="300" style="border-radius:20px" src="https://pin.it/DCKag39p0">
+<img align="right" alt="Coding" width="300" style="border-radius:20px" src="https://www.pinterest.ph/pin/567523990538356835/">
 
 - 🌱 I’m currently learning **React/Node.js**
 - Currently BSIT Student at Bulacan State University Bustos Campus
