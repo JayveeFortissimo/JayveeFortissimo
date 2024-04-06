@@ -1,7 +1,4 @@
-### Hi there 👋, my name is Jayvee
-#### Student Programmer
-
-
+<h1>### Jayvee Maniquiz😎</h1>
 I'm a currently 3rd year college at bulacan state university (bustos campus)
 
 Skills: HTML/CSS/JAVASCRIPT/REACT/NODEJS
