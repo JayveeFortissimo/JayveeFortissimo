@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jayvee
 #### Student Programmer
-![Student Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I'm a currently 3rd year college at bulacan state university (bustos campus)
 
