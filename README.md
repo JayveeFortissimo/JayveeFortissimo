@@ -1,4 +1,4 @@
-<h1>### Jayvee Maniquiz😎</h1>
+<h1>Jayvee <span style="color:aqua">Maniquiz</span>😎</h1>
 I'm a currently 3rd year college at bulacan state university (bustos campus)
 
 Skills: HTML/CSS/JAVASCRIPT/REACT/NODEJS
