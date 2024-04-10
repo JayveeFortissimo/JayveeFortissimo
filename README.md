@@ -10,7 +10,7 @@ now i'm currently learn react.js and node.js for fullstack Development
 - 🔭 I’m currently working on Bulsu Symphonic band 
 - 🌱 I’m currently learning Next.js/Node.js 
 
-💻 Programming languages and Tools
+💻 Programming languages and Tools That i use
 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
