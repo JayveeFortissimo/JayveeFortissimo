@@ -3,7 +3,7 @@
 **`Programmer/Musician/Gym`**
 
 I'm a currently 4th year college student at bulacan state university (bustos campus). 
-Still learning and encounter so many failure, ofcourse i'm just a human after all. But i never ever give up to achive my goals, my crush is 
+Still learning and encounter so many failures, ofcourse i'm just a human after all. But i never ever give up to achive my goals, my crush is 
 waiting for me AHHAHAHHAHHAHAHHAHAHAHA
 
 
