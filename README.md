@@ -9,7 +9,7 @@ waiting for me HAHAHAHAHAH
 - 🔭 I’m currently working on Bulsu Symphonic band 
 - 🌱 I’m currently learning React.js/Node.js/firebase for fullStack development
 
-Musician 11 years Experience
+Musician since 2014
 Push your limit right here right now
 -Yami sukehiro
           
