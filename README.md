@@ -10,7 +10,9 @@ waiting for me HAHAHAHAHAH
 - 🌱 I’m currently learning React.js/Node.js/firebase for fullStack development
 
 Musician since 2014
-Push your limit right here right now
+
+
+=Push your limit right here right now
 -Yami sukehiro
           
       
