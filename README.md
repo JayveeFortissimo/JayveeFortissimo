@@ -6,8 +6,7 @@ I am currently a 4th-year college student at Bulacan State University (Bustos ca
 
 - 🌱 I’m currently learning React.js/Node.js/Mysql for fullStack development
 
-Push your limit right here right now
--Yami sukehiro
+God is Good All the Time
           
       
           
