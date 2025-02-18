@@ -4,7 +4,7 @@
 
 I am currently a 4th-year college student at Bulacan State University (Bustos campus). I want to become a Software Engineer, Cloud Engineer,  and Full Stack Web and Mobile Developer.
 
-- 🌱 I’m currently learning React.js/Node.js/Mysql/ TypeScript for fullStack development
+- 🌱 I’m currently learning React.js/Node.js/Mysql/Potgres/Nest.js/TypeScript for fullStack development
 
 God is Good All the Time
           
