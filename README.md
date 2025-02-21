@@ -1,12 +1,24 @@
-<h1>Jayvee <span style="color:aqua">Maniquiz</span>😎</h1>
+# Hi there, I'm JayveeFortissimo 👋
 
-**`Programmer/Musician/Gym`**
+## About Me
+- 🌱 I’m currently learning new programming languages and frameworks.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about anything related to software development.
+- ⚡ Fun fact: I love playing chess and playing instrument in my free time.
 
-I am currently a 4th-year college student at Bulacan State University (Bustos campus). I want to become a Software Engineer, Cloud Engineer,  and Full Stack Web and Mobile Developer.
+## GitHub Stats
+![JayveeFortissimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayveeFortissimo&show_icons=true&theme=radical)
 
-- 🌱 I’m currently learning React.js/Node.js/Mysql/Potgres/Nest.js/TypeScript/ Figma for fullStack development
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayveeFortissimo&layout=compact&theme=radical)
 
-God is Good All the Time
+## Projects
+- [Project 1](https://github.com/JayveeFortissimo/project1): A brief description of project 1.
+- [Project 2](https://github.com/JayveeFortissimo/project2): A brief description of project 2.
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jayvee-maniquiz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
           
       
           
