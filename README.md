@@ -1,4 +1,4 @@
-# Hi there, I'm JayveeFortissimo 👋
+# Hi there, I'm Jayvee! 👋
 
 ## About Me
 - 🌱 I’m currently learning new programming languages and frameworks.
@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayveeFortissimo&layout=compact&theme=radical)
 
 ## Projects
-- [Project 1](https://github.com/JayveeFortissimo/project1): A brief description of project 1.
+- [Project 1](https://cristobals.vercel.app/): A brief description of project 1.
 - [Project 2](https://github.com/JayveeFortissimo/project2): A brief description of project 2.
 
 ## Connect with Me
