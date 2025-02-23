@@ -13,8 +13,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayveeFortissimo&layout=compact&theme=radical)
 
 ## Projects
-- [Project 1](https://cristobals.vercel.app/): A brief description of project 1.
-- [Project 2](https://github.com/JayveeFortissimo/project2): A brief description of project 2.
+- [Cristobal Collection](https://cristobals.vercel.app/): Reservation System Capstone project.
+
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jayvee-maniquiz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
