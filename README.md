@@ -5,10 +5,6 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything related to software development.
 - ⚡ Fun fact: I love playing chess and playing instrument in my free time.
-
-## GitHub Stats
-![JayveeFortissimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayveeFortissimo&show_icons=true&theme=radical)
-
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayveeFortissimo&layout=compact&theme=radical)
 
