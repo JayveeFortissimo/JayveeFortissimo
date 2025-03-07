@@ -1,12 +1,11 @@
 # Hi there, I'm Jayvee! 👋
 
 ## About Me
+
+Hello! I'm Jayvee Maniquiz im currently a 4th year college student at Bulacan State University(Bustos Campus). I want to become a software engineer or cloud engineer!
+
 - 🌱 I’m currently learning new programming languages and frameworks.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about anything related to software development.
 - ⚡ Fun fact: I love playing chess and playing instrument in my free time.
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayveeFortissimo&layout=compact&theme=radical)
 
 ### Tools I work upon:
 
