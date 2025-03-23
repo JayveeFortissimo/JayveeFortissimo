@@ -2,10 +2,7 @@
 
 ## About Me
 
-Hello! I'm Jayvee Maniquiz im currently a 4th year college student at Bulacan State University(Bustos Campus). I want to become a software engineer or cloud engineer!
-
-- 🌱 I’m currently learning new programming languages and frameworks.
-- ⚡ Fun fact: I love playing chess and playing instrument in my free time.
+Hello and Goodbye XD
 
 ### Tools I work upon:
 
