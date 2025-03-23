@@ -1,7 +1,4 @@
 # Hi there, I'm Jayvee! 👋
-
-## About Me
-
 Hello and Goodbye XD
 
 ### Tools I work upon:
