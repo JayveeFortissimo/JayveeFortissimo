@@ -2,8 +2,7 @@
 
 <h1 align="center">Hey there 👋, I'm Jayvee Maniquiz</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00cfff,0099ff,4f8cff&height=150&section=header&text=Jayvee%20Maniquiz&fontSize=40&fontAlignY=35&desc=Web%20Developer%20|%20IT%20Graduate&descAlignY=60&animation=twinkling"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00cfff,0099ff,4f8cff&height=150&section=header&text=Jayvee%20Maniquiz&fontSize=40&fontAlignY=35&desc=Web%20Developer%20|%20IT%20Graduate&descAlignY=60&animation=twinkling&fontColor=ffffff&descColor=ffffff"/></p>
 
 <p align="center">
   <b>Graduate of Bulacan State University | BS in Information Technology</b><br>
