@@ -41,15 +41,6 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
----
-
-### 📊 GitHub Stats
-
-![Jayvee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayveeFortissimo&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayveeFortissimo&layout=compact&theme=tokyonight)
-
----
 
 ### 🌌 Fun Fact
 > “Music and code share the same rhythm — both create harmony from chaos.”
