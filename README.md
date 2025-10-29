@@ -219,14 +219,6 @@ result: "Ideas in Reality"
 
 </div>
 
-## `<🏆/>` ACHIEVEMENT SHOWCASE
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=JayveeFortissimo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
 <div align="center">
 
 <!-- Glowing Divider -->
