@@ -108,16 +108,6 @@ const principles = [
 
 ---
 
-### `📊 ACTIVITY_MATRIX`
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JayveeFortissimo&theme=tokyonight-duo&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideNums=00F7FF&currStreakNum=00F7FF&dates=8B949E&sideLabels=8B949E)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ### `🎵 DUALITY_PRINCIPLE`
 
 ```
