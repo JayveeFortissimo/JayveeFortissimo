@@ -3,9 +3,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=JAYVEE%20MANIQUIZ&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20×%20Musician%20×%20Explorer&descSize=20&descAlignY=55" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🎵+12%2B+Years+of+Musical+Mastery;🚀+Architecting+Digital+Experiences;🌍+Connecting+with+Amazing+Souls;💡+Chasing+Experiences%2C+Not+Currency" alt="Typing Animation" />
-
 <br/>
 
 <!-- Glowing Divider -->
